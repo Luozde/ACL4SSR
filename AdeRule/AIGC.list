@@ -1,5 +1,15 @@
 # AI
 
 DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,google.dev
 DOMAIN-SUFFIX,claude.ai
-
+# Gemini
+# DOMAIN,generativelanguage.googleapis.com
+DOMAIN-KEYWORD,generativelanguage
+# DOMAIN,colab.research.google.com
+DOMAIN-KEYWORD,colab
+DOMAIN-SUFFIX,apis.google.com
+# DOMAIN,content-developerprofiles-pa.googleapis.com
+DOMAIN-KEYWORD,developerprofiles
