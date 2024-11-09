@@ -1,8 +1,8 @@
 # AI
 
 DOMAIN-SUFFIX,bard.google.com
-DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,google.dev
 DOMAIN-SUFFIX,claude.ai
 # Gemini
