@@ -1,3 +1,11 @@
+# Us library
+DOMAIN-SUFFIX,bpl.org
+DOMAIN-SUFFIX,sccld.org
+DOMAIN-SUFFIX,sno-isle.org
+DOMAIN-SUFFIX,hcplcalendar.net
+DOMAIN-SUFFIX,slcl.org
+DOMAIN-SUFFIX,ocls.org
+
 # Paypal list
 DOMAIN-KEYWORD,paypal
 DOMAIN-KEYWORD,anfutong
