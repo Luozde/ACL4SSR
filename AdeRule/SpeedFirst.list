@@ -2,6 +2,7 @@
 DOMAIN-KEYWORD,v2ex
 DOMAIN-KEYWORD,nodeseek
 DOMAIN-SUFFIX,linux.do
-DOMAIN-SUFFIX,linshiyouxiang.com
+DOMAIN-SUFFIX,linshiyouxiang.net
 DOMAIN-KEYWORD,z-library
 DOMAIN-KEYWORD,tpml
+IP-CIDR,160.191.0.0/24
